@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CalendarList",
+        "repositoryURL": "https://github.com/tiusender/CalendarList.git",
+        "state": {
+          "branch": null,
+          "revision": "05d69a650c84548a7d1e7f38c845109588645cd0",
+          "version": "0.0.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
